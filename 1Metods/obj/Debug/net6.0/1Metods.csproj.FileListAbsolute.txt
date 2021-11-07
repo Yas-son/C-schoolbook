@@ -1,0 +1,16 @@
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.GlobalUsings.g.cs
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.csproj.AssemblyReference.cache
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.AssemblyInfoInputs.cache
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.AssemblyInfo.cs
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.csproj.CoreCompileInputs.cache
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\1Metods.exe
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\1Metods.deps.json
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\1Metods.runtimeconfig.json
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\1Metods.dll
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\ref\1Metods.dll
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\bin\Debug\net6.0\1Metods.pdb
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.dll
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\ref\1Metods.dll
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.pdb
+E:\Учеба\Разработчик\Литература\С#\C# для школьников\1Metods\obj\Debug\net6.0\1Metods.genruntimeconfig.cache
